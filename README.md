@@ -3,5 +3,5 @@ To install:
 * Clone this repo
 * `npm install`
 * `ionic plugin add cordova-plugin-geolocation`
-* `typings install dt~google.maps --global` (if you do have typings installed run `npm install -g typings`
+* `typings install dt~google.maps --global` (if isn't typings installed run `npm install -g typings`)
 * `ionic serve -lc`
