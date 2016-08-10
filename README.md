@@ -1,4 +1,4 @@
-# Example of Map in Ionic 2 (2.0.0-beta.32)
+# Example of Map in Ionic 2 (beta 10)
 To install:
 * Clone this repo
 * `npm install`
